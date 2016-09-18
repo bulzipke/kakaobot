@@ -6,4 +6,8 @@ Introduction
 Todo
 ============
 README.rst 작성
+
 message 핸들러 추가
+
+pip 에 등록
+
