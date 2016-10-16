@@ -1,2 +1,13 @@
 .idea/
-db/
+
+db/kakaobot.db
+*.zip
+kakaobot.egg-info/dependency_links.txt
+kakaobot.egg-info/PKG-INFO
+kakaobot.egg-info/SOURCES.txt
+kakaobot.egg-info/requires.txt
+kakaobot.egg-info/top_level.txt
+build/lib/kakaobot/__init__.py
+src/__pycache__/__init__.cpython-35.pyc
+upload.bat
+test.py
