@@ -8,3 +8,6 @@ Todo
 README.rst 작성
   
 message 핸들러 추가
+
+============
+send 관련 api 나올때 까지 무기한 연기...
